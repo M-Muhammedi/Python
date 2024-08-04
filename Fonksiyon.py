@@ -5,7 +5,7 @@ def bilgi(isim:str,soyisim:str,yas:int):
     return print(f"Adınız : {isim} \nSoyAdınız : {soyisim} \nYaşınız : {yas}")
 
 
-kisi1 = bilgi("Mustafa","Muhammedi",2000)
+kisi1 = bilgi("Mustafa","Muhammedi",24)
 print(kisi1)
 
 #       Şuanki Yıl
